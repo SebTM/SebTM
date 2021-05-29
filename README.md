@@ -1,16 +1,18 @@
-### Hi there 👋
+### Howdy 👋
 
-<!--
-**SebTM/SebTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Basti aka SebTM and I'm employed as software developer in Munich.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my NixOS-Config/Deplomyment and [Betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
+- 🌱 I’ve switched recently (04/21) to NixOS, so getting more into it/NixOps
+- 💬 Ask me about 🐘 PHP especially Symfony or Laravel related topics
+- 📫 How to reach me: [`@xSebTM`](https://twitter.com/xSebTM) at Twitter, write me an E-Mail (see Profile | [GPG Public Key](./public.gpg)) or leave me a [Message](https://github.com/SebTM/SebTM/issues) (public) here
+- 😄 Pronouns: he/him, they/them
+- ⚡ Fun fact: If you sit you can't stand, think about it 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+
+<p valign="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebTM&theme=solarized-dark&border_radius=25&hide_title=true&show_icons=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebTM&theme=solarized-dark&border_radius=25" />
+</p>
