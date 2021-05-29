@@ -1,11 +1,11 @@
 ### Howdy 👋
 
-My name is Basti (aka SebTM), I'm employed as software developer at [Mayflower GmbH](https://mayflower.de/) in Munich.
+My name is Basti aka SebTM and I'm employed as software developer in Munich.
 
 - 🔭 I’m currently working on my NixOS-Config/Deplomyment and [Betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
-- 🌱 I’ve switched recently (04/21) to NixOS, so getting into it/NixOps and learning Nix at the Moment
-- 💬 Ask me about 🐘 PHP especially <img src="https://symfony.com/favicon.ico" height="16px" width="16px" /> Symfony or  <img src="https://laravel.com/img/favicon/favicon.ico" height="16px" width="16px" padding="2px" /> Laravel related topics
-- 📫 How to reach me: [`@xSebTM`](https://twitter.com/xSebTM) at Twitter, write me an E-Mail ([GPG Public Key]()) or leave me an [Issue](https://github.com/SebTM/SebTM/issues)
+- 🌱 I’ve switched recently (04/21) to NixOS, so getting more into it/NixOps
+- 💬 Ask me about 🐘 PHP especially Symfony or Laravel related topics
+- 📫 How to reach me: [`@xSebTM`](https://twitter.com/xSebTM) at Twitter, write me an E-Mail (see Profile | [GPG Public Key](./public.gpg)) or leave me a [Message](https://github.com/SebTM/SebTM/issues) (public) here
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: If you sit you can't stand, think about it 👀
 
