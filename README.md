@@ -1,18 +1,17 @@
-### Howdy 👋
+# Hiya¹ 👋
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sebtm-sebtm&style=for-the-badge)
 
 My name is Basti aka SebTM and I'm employed as software developer in Munich.
 
-- 🔭 I’m currently working on my NixOS-Config/Deplomyment and [Betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
-- 🌱 I’ve switched recently (04/21) to NixOS, so getting more into it/NixOps
-- 💬 Ask me about 🐘 PHP especially Symfony or Laravel related topics
+- 🌱 I’ve switched to NixOS in April 2021 (and I liked it 😉)
+- 💬 Ask me anything - especially 🐘 PHP, Symfony or Laravel related topics 🤓
 - 📫 How to reach me: [`@xSebTM`](https://twitter.com/xSebTM) at Twitter, write me an E-Mail (see Profile | [GPG Public Key](./public.gpg)) or leave me a [Message](https://github.com/SebTM/SebTM/issues) (public) here
 - 😄 Pronouns: he/him, they/them
-- ⚡ Fun fact: If you sit you can't stand, think about it 👀
+- ⚡ Fun fact: The postcode for Santa Claus in Canada is "H0H 0H0"² 🧑‍🎄
 
-### Stats
+# Stats
+![Metrics](https://metrics.lecoq.io/SebTM?template=classic&base.header=0&lines=1&config.timezone=Europe%2FBerlin)
 
-<p valign="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebTM&theme=solarized-dark&border_radius=25&hide_title=true&show_icons=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebTM&theme=solarized-dark&border_radius=25" />
-</p>
+# References
+1. https://www.powerthesaurus.org/hello/synonyms
+2. https://en.wikipedia.org/wiki/Postal_codes_in_Canada#Santa_Claus
