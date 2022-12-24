@@ -1,9 +1,7 @@
 ### Howdy 👋
 
-My name is Basti aka SebTM and I'm employed as software developer in Munich.
+My name is Basti aka SebTM and I'm employed as software developer.
 
-- 🔭 I’m currently working on my NixOS-Config/Deplomyment and [Betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
-- 🌱 I’ve switched recently (04/21) to NixOS, so getting more into it/NixOps
 - 💬 Ask me about 🐘 PHP especially Symfony or Laravel related topics
 - 📫 How to reach me: [`@xSebTM`](https://twitter.com/xSebTM) at Twitter, write me an E-Mail (see Profile | [GPG Public Key](./public.gpg)) or leave me a [Message](https://github.com/SebTM/SebTM/issues) (public) here
 - 😄 Pronouns: he/him, they/them
